@@ -18,7 +18,6 @@ try {
 } catch (err) {
     alert('请在func.js前，加载jqeury.js') // 可执行
 }
-
 var func;
 try {
     func = {
@@ -102,7 +101,5 @@ try {
     alert('系统繁忙，请稍候再试')
     //可以加入搜集日志功能
 }
-
-
 
 
